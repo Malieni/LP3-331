@@ -12,5 +12,6 @@ Este curso técnico oferece uma introdução abrangente ao mundo da informática
 
 ## Conteúdos já realizados
 
-1. Introdução à Informática e Python
-2. Exercícios
+1. Introdução à Python
+2. Funçoes
+3. Exercícios
